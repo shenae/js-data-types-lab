@@ -21,5 +21,3 @@ typeof( 1 != 2 );
 "johnny" - 5
 99 * "luftbaloons";
 ```
-
-What's going on in the second half of the previous question? What "rules," if any, can we pull from those examples?
