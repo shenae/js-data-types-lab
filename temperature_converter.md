@@ -26,24 +26,28 @@ Your program will look something like this for each starting temperature...
 
   ```javascript
   // Starting temperature
-  let fahrenheit = //some code here to get user input;
+  // First thing first: initialize this variable with a correct value;
+  let fahrenheit = ;
 
   // Conversion code
-  let fahrenheitToCelsius = ...;
-  let fahrenheitToKelvin = ...;
+  // Assign these variables to their proper conversion formula.
+  let fahrenheitToCelsius = ;
+  let fahrenheitToKelvin = ;
 
-  // Print to console
-  console.log( "Fahrenheit: " + ... );
-  console.log( "Celsius: " + ... );
-  console.log( "Kelvin: " + ... );
+  // Print to console with string concatination
+  console.log( "Fahrenheit: " + `__`);
+  console.log( "Celsius: " + `__`);
+  console.log( "Kelvin: " + `__`);
+  
+  // What should you replace `__` with in the console.log() to print out the correct temperature values?
   ```
 
 Your command line output will look something like this...
 
   ```
-  Fahrenheit: STARTING_TEMP F
-  Celsius: CONVERTED_TEMP C
-  Kelvin: CONVERTED_TEMP K
+  Fahrenheit: `_`F
+  Celsius: `_`C
+  Kelvin: `_`K
   ```
 
 Feel free to turn to your tablemates for help!  
