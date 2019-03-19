@@ -35,19 +35,19 @@ Your program will look something like this for each starting temperature...
   let fahrenheitToKelvin = ;
 
   // Print to console with string concatination
-  console.log( "Fahrenheit: " + `__`);
-  console.log( "Celsius: " + `__`);
-  console.log( "Kelvin: " + `__`);
+  console.log( "Fahrenheit: " + ???);
+  console.log( "Celsius: " + ???);
+  console.log( "Kelvin: " + ???);
   
-  // What should you replace `__` with in the console.log() to print out the correct temperature values?
+  // What should you replace ??? with in the console.log() to print out the correct temperature values?
   ```
 
 Your command line output will look something like this...
 
   ```
-  Fahrenheit: `_`F
-  Celsius: `_`C
-  Kelvin: `_`K
+  Fahrenheit: ???F
+  Celsius: ???C
+  Kelvin: ???K
   ```
 
 Feel free to turn to your tablemates for help!  
